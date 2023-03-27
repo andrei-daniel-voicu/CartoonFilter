@@ -2,8 +2,7 @@
 ![](./assets/screenshots/all_lights_logo.png)
 
 <!--- general description of the project -->
-This project is the third student assignment for the Computer Graphics course. It is a simple game that incorporates **different
-lighting** and **texturing techniques**. The project is build upon the following [framework](https://github.com/UPB-Graphics/gfx-framework) and it follows the following assignment [specifications](https://ocw.cs.pub.ro/courses/egc/teme/2021/03) with some **additional twists**.
+This project is the second student assignment for the Graphics Processing Systems course. It is an application that supports loading and saving image files and applying a cartoon filter on top of them. The project is build upon the following [framework](https://github.com/UPB-Graphics/gfx-framework) and it follows the following assignment [specifications](https://ocw.cs.pub.ro/courses/spg/teme/2022/02).
 
 ## :trophy: Features
   &nbsp;&nbsp; :small_orange_diamond: Multiple light sources (static and dynamic)  
