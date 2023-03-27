@@ -1,5 +1,5 @@
 <!--- insert project logo here -->
-![](./assets/screenshots/all_lights_logo.png)
+![](./assets/screenshots/logo.png)
 
 <!--- general description of the project -->
 This project is the second student assignment for the Graphics Processing Systems course. It is an application that supports loading and saving image files and applying a cartoon filter on top of them. The project is build upon the following [framework](https://github.com/UPB-Graphics/gfx-framework) and it follows the following assignment [specifications](https://ocw.cs.pub.ro/courses/spg/teme/2022/02).
