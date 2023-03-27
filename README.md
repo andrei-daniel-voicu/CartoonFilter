@@ -6,7 +6,7 @@ This project is the second student assignment for the Graphics Processing System
 
 ## :trophy: Features
   &nbsp;&nbsp; :small_orange_diamond: Loading & Saving Image file formats  
-  &nbsp;&nbsp; :small_orange_diamond: Outline Effect using Canny Detector
+  &nbsp;&nbsp; :small_orange_diamond: Outline Effect using Canny Detector  
   &nbsp;&nbsp; :small_orange_diamond: Cartoon Filter using Median Cut algorithm
   
 ## :white_check_mark: Prerequisites
