@@ -5,11 +5,9 @@
 This project is the second student assignment for the Graphics Processing Systems course. It is an application that supports loading and saving image files and applying a cartoon filter on top of them. The project is build upon the following [framework](https://github.com/UPB-Graphics/gfx-framework) and it follows the following assignment [specifications](https://ocw.cs.pub.ro/courses/spg/teme/2022/02).
 
 ## :trophy: Features
-  &nbsp;&nbsp; :small_orange_diamond: Multiple light sources (static and dynamic)  
-  &nbsp;&nbsp; :small_orange_diamond: Emissive floor lighting  
-  &nbsp;&nbsp; :small_orange_diamond: Reflectors spot lighting  
-  &nbsp;&nbsp; :small_orange_diamond: Disco Ball point lighting  
-  &nbsp;&nbsp; :small_orange_diamond: Disco Ball spherical environment mapping   
+  &nbsp;&nbsp; :small_orange_diamond: Loading & Saving Image file formats  
+  &nbsp;&nbsp; :small_orange_diamond: Outline Effect using Canny Detector
+  &nbsp;&nbsp; :small_orange_diamond: Cartoon Filter using Median Cut algorithm
   
 ## :white_check_mark: Prerequisites
 This section describes ***what you need to do and install*** before actually building the code.
